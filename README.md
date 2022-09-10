@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @mapclone
-- 👀 I’m interested in preserving open source repositories related to mapping and GIS.
+👋 Hi, I’m @mapclone
+
+👀 I’m interested in preserving open source repositories related to mapping and GIS.
 
 <!---
 - 🌱 I’m currently learning ...
